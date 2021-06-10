@@ -117,7 +117,7 @@ class Quiz {
 
 
 
-        int result[] = { 3, 4, 2, 2, 1 };
+        int result[] = { 3, 2, 2, 2, 1 };
         int count = 0;
         for (; i < 5; i++) {
             if (i == 0) {
